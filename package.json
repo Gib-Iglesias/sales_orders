@@ -1,0 +1,19 @@
+{
+  "name": "sales_orders",
+  "version": "1.0.0",
+  "description": "Sales Orders Test",
+  "main": "sales_orders.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gib-Iglesias/sales_orders.git"
+  },
+  "author": "Gib Iglesias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gib-Iglesias/sales_orders/issues"
+  },
+  "homepage": "https://github.com/Gib-Iglesias/sales_orders#readme"
+}
